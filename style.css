@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    overflow: hidden;
+    
     box-sizing: border-box;
     font-family: 'Libre Baskerville', serif;
 }
@@ -14,7 +14,7 @@ nav{
 .navcontent{
     display: flex;
     gap: 25px;
-    padding-right:820px ;
+    padding-right:750px ;
     padding-top: 20px;
     font-weight: bold;
     color: #000;
@@ -65,7 +65,7 @@ border: none;
     background-color: #5955b3;
     padding: 8px 15px;
     color: #ffffff;
-    margin-top: 18px;
+    margin-top: 16px;
     margin-right: 10px;
     font-size: 17px;
     font-weight: 600;
